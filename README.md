@@ -3,7 +3,7 @@ String Theory is at the forefront of blockchain validation, leveraging cutting-e
 
 # ⌨️Connect with Us
 
-- 🌐Notion - [Porfolio](https://antique-milk-cbe.notion.site/String-Theory-5337a65cfa6d450b9849c6ae5e7a07c5)
+- 🌐Notion - [Portfolio](https://antique-milk-cbe.notion.site/String-Theory-5337a65cfa6d450b9849c6ae5e7a07c5)
 
 - 🌐Moti.bio - [Usefull Links](www.moti.bio/StringTheoryVal)
 
