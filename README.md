@@ -15,9 +15,9 @@ String Theory is at the forefront of blockchain validation, leveraging cutting-e
 
 [more info](https://www.notion.so/XION-9a0910cecaf94c36b6a3c4d51306e1cf?pvs=21)
 
-## 🟨 Nubit
+## 🟩Nubit
 
-***In development***
+[more info](https://mirror.xyz/0xee5246dda566d59E58d74Edf752Cc3c5a330f0f2/oUSBRgm6PaVcDDBEOghKK7l3jnAUiQbVN7ZUyGIbJWA)
 
 ## 🟨 Ten
 
